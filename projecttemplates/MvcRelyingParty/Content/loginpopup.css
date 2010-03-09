@@ -21,3 +21,13 @@ Div#NotMyComputerDiv
 {
 	font-size: 80%;
 }
+
+.OPButton
+{
+    float: left;
+}
+
+.OPLogo
+{
+     margin-top: 10px;
+}
